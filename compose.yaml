@@ -1,0 +1,35 @@
+services:
+  azure-functions:
+    build: .
+    ports:
+      - "8080:80"
+    environment:
+      - AzureWebJobsStorage=UseDevelopmentStorage=true
+      - AzureWebJobsDashboard=UseDevelopmentStorage=true
+      - MongoDB__ConnectionString=mongodb://mongodb:27017
+      - RabbitMQ__ConnectionString=amqp://rabbitmq
+    depends_on:
+      - mongodb
+      - rabbitmq
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: user
+      RABBITMQ_DEFAULT_PASS: password
+
+volumes:
+  mongo-data:
+    driver: local
