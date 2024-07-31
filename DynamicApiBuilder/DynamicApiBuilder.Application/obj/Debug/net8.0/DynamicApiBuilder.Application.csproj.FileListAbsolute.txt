@@ -1,0 +1,13 @@
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\bin\Debug\net8.0\DynamicApiBuilder.Application.deps.json
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\bin\Debug\net8.0\DynamicApiBuilder.Application.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\bin\Debug\net8.0\DynamicApiBuilder.Application.pdb
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\DynamicApiBuilder.Application.csproj.AssemblyReference.cache
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\DynamicApiBuilder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\DynamicApiBuilder.Application.AssemblyInfoInputs.cache
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\DynamicApiBuilder.Application.AssemblyInfo.cs
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\DynamicApiBuilder.Application.csproj.CoreCompileInputs.cache
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\DynamicApiBuilder.Application.sourcelink.json
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\DynamicApiBuilder.Application.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\refint\DynamicApiBuilder.Application.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\DynamicApiBuilder.Application.pdb
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Application\obj\Debug\net8.0\ref\DynamicApiBuilder.Application.dll

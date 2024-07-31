@@ -7,6 +7,7 @@ COPY DynamicApiBuilder/DynamicApiBuilder.sln ./
 COPY DynamicApiBuilder/DynamicApiBuilder.Function/DynamicApiBuilder.Function.csproj DynamicApiBuilder/DynamicApiBuilder.Function/
 COPY DynamicApiBuilder/DynamicApiBuilder.Domain/DynamicApiBuilder.Domain.csproj DynamicApiBuilder/DynamicApiBuilder.Domain/
 COPY DynamicApiBuilder/DynamicApiBuilder.Infrestructure/DynamicApiBuilder.Infrestructure.csproj DynamicApiBuilder/DynamicApiBuilder.Infrestructure/
+COPY DynamicApiBuilder/DynamicApiBuilder.Application/DynamicApiBuilder.Application.csproj DynamicApiBuilder/DynamicApiBuilder.Application/
 COPY DynamicApiBuilder/DynamicApiBuilder.UnityTest/DynamicApiBuilder.UnityTest.csproj DynamicApiBuilder/DynamicApiBuilder.UnityTest/
 COPY DynamicApiBuilder/DynamicApiBuilder.FunctionalTest/DynamicApiBuilder.FunctionalTest.csproj DynamicApiBuilder/DynamicApiBuilder.FunctionalTest/
 
@@ -23,3 +24,4 @@ COPY --from=build-env /app/out .
 # Exponha a porta 80 para a Azure Functions runtime
 EXPOSE 80
 
+ 

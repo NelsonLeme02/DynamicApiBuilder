@@ -10,3 +10,16 @@ C:\Users\NelsonSilva-ÚnicoRH\Desktop\API Project\DynamicAPIBuilder\DynamicApiBu
 C:\Users\NelsonSilva-ÚnicoRH\Desktop\API Project\DynamicAPIBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\refint\DynamicApiBuilder.Infrestructure.dll
 C:\Users\NelsonSilva-ÚnicoRH\Desktop\API Project\DynamicAPIBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\DynamicApiBuilder.Infrestructure.pdb
 C:\Users\NelsonSilva-ÚnicoRH\Desktop\API Project\DynamicAPIBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\ref\DynamicApiBuilder.Infrestructure.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\bin\Debug\net8.0\DynamicApiBuilder.Infrestructure.deps.json
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\bin\Debug\net8.0\DynamicApiBuilder.Infrestructure.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\bin\Debug\net8.0\DynamicApiBuilder.Infrestructure.pdb
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\DynamicApiBuilder.Infrestructure.csproj.AssemblyReference.cache
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\DynamicApiBuilder.Infrestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\DynamicApiBuilder.Infrestructure.AssemblyInfoInputs.cache
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\DynamicApiBuilder.Infrestructure.AssemblyInfo.cs
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\DynamicApiBuilder.Infrestructure.csproj.CoreCompileInputs.cache
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\DynamicApiBuilder.Infrestructure.sourcelink.json
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\DynamicApiBuilder.Infrestructure.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\refint\DynamicApiBuilder.Infrestructure.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\DynamicApiBuilder.Infrestructure.pdb
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Infrestructure\obj\Debug\net8.0\ref\DynamicApiBuilder.Infrestructure.dll

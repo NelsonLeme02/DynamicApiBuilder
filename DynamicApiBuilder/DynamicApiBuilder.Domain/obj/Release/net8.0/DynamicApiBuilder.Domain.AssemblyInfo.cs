@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicApiBuilder.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6ff94fd4647a7f2fce6fb53ea5a465d425f78c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d6e1610237e6a8c079f2560bf3a593bdf575d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicApiBuilder.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicApiBuilder.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

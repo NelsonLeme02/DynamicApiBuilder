@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicApiBuilder.Infrestructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3deb37478c236f56171e156ec4d2a5038ebbcf10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d6e1610237e6a8c079f2560bf3a593bdf575d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicApiBuilder.Infrestructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicApiBuilder.Infrestructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

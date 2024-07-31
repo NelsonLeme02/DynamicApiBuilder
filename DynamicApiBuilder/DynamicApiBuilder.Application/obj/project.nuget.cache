@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+HGWoy+SylU+CMWD8BaiV67mvuVSlcRr3Vr6HZFECISpHduUAYB58LnP/UbJiqBa0Fta2HGAVM06SQ69O7vKgQ==",
+  "dgSpecHash": "7hoVVU7uVnRNBlk4IUcCYTJ2q4cx+LQrAh94Bgq6LsvUj2Uw6rbXFRvvxUAfDRoJ8D/GdlHhr/PBoDXt9ka28g==",
   "success": true,
   "projectFilePath": "C:\\Users\\NelsonSilva-ÚnicoRH\\Desktop\\APIProject\\DynamicApiBuilder\\DynamicApiBuilder.Application\\DynamicApiBuilder.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NelsonSilva-ÚnicoRH\\.nuget\\packages\\ulid\\1.3.4\\ulid.1.3.4.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -12,6 +12,7 @@
     <PackageReference Include="Ulid" Version="1.3.4" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DynamicApiBuilder.Application\DynamicApiBuilder.Application.csproj" />
     <ProjectReference Include="..\DynamicApiBuilder.Infrestructure\DynamicApiBuilder.Infrestructure.csproj" />
   </ItemGroup>
   <ItemGroup>

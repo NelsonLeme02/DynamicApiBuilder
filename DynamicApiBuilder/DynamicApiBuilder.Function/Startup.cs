@@ -1,4 +1,6 @@
-﻿using Microsoft.Azure.Functions.Extensions.DependencyInjection;
+﻿using DynamicApiBuilder.Application.BusinessRules.Implementation;
+using DynamicApiBuilder.Application.BusinessRules.Interface;
+using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 
@@ -9,7 +11,7 @@ namespace DynamicApiBuilder.Function
     {
         public override void Configure(IFunctionsHostBuilder builder)
         {
-            
+            builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
         }
     }
 }
