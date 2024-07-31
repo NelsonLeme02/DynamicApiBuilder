@@ -7,10 +7,12 @@ services:
       - AzureWebJobsStorage=UseDevelopmentStorage=true
       - AzureWebJobsDashboard=UseDevelopmentStorage=true
       - MongoDB__ConnectionString=mongodb://mongodb:27017
-      - RabbitMQ__ConnectionString=amqp://rabbitmq
+      - Kafka__BootstrapServers=kafka1:9092,kafka2:9093,kafka3:9094
     depends_on:
       - mongodb
-      - rabbitmq
+      - kafka-configuration-broker
+      - kafka-rest-broker
+      - kafka-worker-broker
 
   mongodb:
     image: mongo:latest
@@ -20,15 +22,47 @@ services:
     volumes:
       - mongo-data:/data/db
 
-  rabbitmq:
-    image: rabbitmq:management
-    container_name: rabbitmq
+  zookeeper:
+    image: wurstmeister/zookeeper
+    container_name: zookeeper
     ports:
-      - "5672:5672"
-      - "15672:15672"
+      - "2181:2181"
+
+  kafka-configuration-broker:
+    image: wurstmeister/kafka
+    container_name: kafka-configuration-broker
+    ports:
+      - "9092:9092"
     environment:
-      RABBITMQ_DEFAULT_USER: user
-      RABBITMQ_DEFAULT_PASS: password
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka1:9092
+      KAFKA_BROKER_ID: 1
+    depends_on:
+      - zookeeper
+
+  kafka-rest-broker:
+    image: wurstmeister/kafka
+    container_name: kafka-rest-broker
+    ports:
+      - "9093:9093"
+    environment:
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka2:9093
+      KAFKA_BROKER_ID: 2
+    depends_on:
+      - zookeeper
+
+  kafka-worker-broker:
+    image: wurstmeister/kafka
+    container_name: kafka-worker-broker
+    ports:
+      - "9094:9094"
+    environment:
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka3:9094
+      KAFKA_BROKER_ID: 3
+    depends_on:
+      - zookeeper
 
 volumes:
   mongo-data:

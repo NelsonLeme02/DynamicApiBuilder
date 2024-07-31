@@ -10,3 +10,15 @@ C:\Users\NelsonSilva-ÚnicoRH\Desktop\API Project\DynamicAPIBuilder\DynamicApiBu
 C:\Users\NelsonSilva-ÚnicoRH\Desktop\API Project\DynamicAPIBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\refint\DynamicApiBuilder.Domain.dll
 C:\Users\NelsonSilva-ÚnicoRH\Desktop\API Project\DynamicAPIBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\DynamicApiBuilder.Domain.pdb
 C:\Users\NelsonSilva-ÚnicoRH\Desktop\API Project\DynamicAPIBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\ref\DynamicApiBuilder.Domain.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\bin\Debug\net8.0\DynamicApiBuilder.Domain.deps.json
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\bin\Debug\net8.0\DynamicApiBuilder.Domain.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\bin\Debug\net8.0\DynamicApiBuilder.Domain.pdb
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\DynamicApiBuilder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\DynamicApiBuilder.Domain.AssemblyInfoInputs.cache
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\DynamicApiBuilder.Domain.AssemblyInfo.cs
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\DynamicApiBuilder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\DynamicApiBuilder.Domain.sourcelink.json
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\DynamicApiBuilder.Domain.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\refint\DynamicApiBuilder.Domain.dll
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\DynamicApiBuilder.Domain.pdb
+C:\Users\NelsonSilva-ÚnicoRH\Desktop\APIProject\DynamicApiBuilder\DynamicApiBuilder.Domain\obj\Debug\net8.0\ref\DynamicApiBuilder.Domain.dll
